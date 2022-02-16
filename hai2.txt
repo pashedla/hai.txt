@@ -1,0 +1,2 @@
+git add hai2.txt
+git committed to the new file and we can configure username and mail
